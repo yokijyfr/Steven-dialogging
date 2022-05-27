@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"speaker" : "FirstWitch",
+			"dialog" : "When shall we three meet again In thunder, lightning, or in rain?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "SecondWitch",
+			"dialog" : "When the hurlyburly's done,When the battle's lost and won.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "ThirdWitch",
+			"dialog" : "That will be ere the set of sun.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "FirstWitch",
+			"dialog" : "Where the place?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "SecondWitch",
+			"dialog" : "Upon the heath.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "ThirdWitch",
+			"dialog" : "There to meet with Macbeth.",
+			"newSpeaker" : "true"
+		}
+	]
+]
